@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tic Tac Fun</string>
+    <string name="hashing">..Welcome to Fun..</string>
+    <string name="grid">Our main grid</string>
+    <string name="toes">X or O</string>
+    <string name="chance">\" X\'s Turn - Tap to Play.. \"</string>
+</resources>
